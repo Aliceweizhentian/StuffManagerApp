@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e317c</color>
+    <color name="colorPrimaryDark">#1e2249</color>
+    <color name="colorAccent">#4a5a9c</color>
+    <!-- 选中状态下的颜色 -->
+    <color name="selected_color">#FF5722</color> <!-- 橙色 -->
+
+    <!-- 未选中状态下的颜色 -->
+    <color name="unselected_color">#757575</color> <!-- 灰色 -->
+
+    <color name="background">#f0f0f0</color>
+
+    <color name="surface">#f0f0f0</color>
+
+    <color name="error">#d32f2f</color>
+
+    <color name="secondText">#757575</color>
+
+    <color name="background2">#F3D1D1</color>
+
+</resources>
